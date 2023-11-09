@@ -1,0 +1,31 @@
+body {
+    background-color: #f9f4e3;
+}
+
+.form-user {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+
+    box-shadow: 1px 4px 7px #00000026;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.form-space {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.title-form-user {
+    margin-top: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.subtitle-form-user {
+    font-weight: bold;
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: #f9f4e3;
+}
+
+.form-pet {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+
+    box-shadow: 1px 4px 7px #00000026;
+    border-radius: 8px;
+    background-color: white;
+    margin-bottom: 60px;
+}
+
+.form-space-pet {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.title-form-pet {
+margin-top: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+}

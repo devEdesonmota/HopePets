@@ -1,0 +1,27 @@
+body {
+    background-color: #f9f4e3;
+}
+
+.form-veterinario {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+
+    box-shadow: 1px 4px 7px #00000026;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.form-space-vet {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.title-form-vet {
+    margin-top: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+}
